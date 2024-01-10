@@ -5,5 +5,6 @@ Participated in the data challenge project organised by the DataChallengeSp comm
 Lesson learnt in this project involves:
 * How to import bak.file into an MSSQL Server
 * Data cleaning
-* Data Merging
+* Data merging
 * Data transformation
+* Data analysis & Deriving insights
